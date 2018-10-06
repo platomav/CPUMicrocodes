@@ -9,9 +9,9 @@ Intel, AMD &amp; VIA CPU Microcode Repositories
 
 [MC Extractor Discussion Topic](https://www.win-raid.com/t2199f47-MC-Extractor-Intel-AMD-VIA-amp-Freescale-Microcode-Extraction-Tool-Discussion.html)
 
-This is a collection of every **Production** Intel, AMD and VIA CPU microcode we have found. You can use [MC Extractor](https://github.com/platomav/MCExtractor) to check instantly whether a microcode is already at the repository.
+This is a collection of every **Latest Production** Intel, AMD and VIA CPU microcode we have found. You can use [MC Extractor](https://github.com/platomav/MCExtractor) to check instantly whether a microcode is already at the repository.
 
-Collecting all available CPU microcodes is important for upgrading/downgrading purposes, for creating universal tools that can help people understand what microcode they use, for research on how the general technology works, for developers with no vendor representative who want to work on a given platform etc.
+Collecting CPU microcodes is important for upgrading purposes, for creating universal tools that can help people understand what microcode they use, for research on how the general technology works, for developers with no vendor representative who want to work on a given platform etc.
 
 **Disclaimer: All the microcodes below come only from official BIOS/UEFI updates, Intel/AMD Linux Microcode Updates, Linux Distributions, Windows Updates etc which were provided and made public by various manufacturers!** It is always advised to request and/or wait for your OEM/OS to release newer fixes. The microcodes are gathered and provided with the sole purpose of helping people who are out of other viable solutions. Thus, they can be extremely helpful to those who have major problems with their systems for which their manufacturer refuses to assist due to indifference and/or system age.
 
