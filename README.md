@@ -1,5 +1,5 @@
 # CPUMicrocodes
-Intel, AMD, VIA &amp; Freescale CPU Microcode Repositories
+**Intel, AMD, VIA &amp; Freescale CPU Microcode Repositories**
 
 [CPU Microcode Repositories News Feed](https://twitter.com/platomaniac)
 
