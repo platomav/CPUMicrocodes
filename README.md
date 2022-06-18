@@ -3,13 +3,13 @@
 
 [CPU Microcode Repositories News Feed](https://twitter.com/platomaniac)
 
-[CPU Microcode Repositories Discussion Topic](https://www.win-raid.com/t3355f47-Intel-AMD-VIA-amp-Freescale-CPU-Microcode-Repositories-Discussion.html)
+[CPU Microcode Repositories Discussion Topic](https://winraid.level1techs.com/t/intel-amd-via-freescale-cpu-microcode-repositories-discussion/32301)
 
 [MC Extractor: Intel, AMD, VIA & Freescale Microcode Extraction Tool](https://github.com/platomav/MCExtractor)
 
-[MC Extractor Discussion Topic](https://www.win-raid.com/t2199f47-MC-Extractor-Intel-AMD-VIA-amp-Freescale-Microcode-Extraction-Tool-Discussion.html)
+[MC Extractor Discussion Topic](https://winraid.level1techs.com/t/mc-extractor-intel-amd-via-freescale-microcode-extraction-tool-discussion/31555)
 
-This is a collection of every **Latest Production** Intel & AMD as well every VIA & Freescale CPU microcode we have found. You can use [MC Extractor](https://github.com/platomav/MCExtractor) to check instantly whether a microcode is already at the repository. Please report any microcodes which are missing from the [MC Extractor](https://github.com/platomav/MCExtractor) database at the [CPU Microcode Repositories Discussion Topic](https://www.win-raid.com/t3355f47-Intel-AMD-VIA-amp-Freescale-CPU-Microcode-Repositories-Discussion.html) instead of opening an issue here.
+This is a collection of every **Latest Production** Intel & AMD as well every VIA & Freescale CPU microcode we have found. You can use [MC Extractor](https://github.com/platomav/MCExtractor) to check instantly whether a microcode is already at the repository. Please report any microcodes which are missing from the [MC Extractor](https://github.com/platomav/MCExtractor) database at the [CPU Microcode Repositories Discussion Topic](https://winraid.level1techs.com/t/intel-amd-via-freescale-cpu-microcode-repositories-discussion/32301) instead of opening an issue here.
 
 Collecting CPU microcodes is important for upgrading purposes, for creating universal tools that can help people understand what microcode they use, for research on how the general technology works, for developers with no vendor representative who want to work on a given platform etc.
 
